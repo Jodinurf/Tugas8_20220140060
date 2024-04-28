@@ -1,0 +1,9 @@
+body {
+    background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20220507/pngtree-modern-light-blue-and-white-luxury-abstract-background-image_1319028.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#imageContainer img {
+    width: 400px; /* Adjust the width as needed */
+    height: auto;
+}
