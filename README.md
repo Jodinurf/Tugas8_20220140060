@@ -10,5 +10,5 @@ Results:
 ![alt text](https://github.com/Jodinurf/Tugas8_20220140060/blob/main/SS3.png?raw=true)
 <br>
 4. When Button "Lihat Stock" clicked
-![alt text](https://github.com/Jodinurf/Tugas8_20220140060/blob/main/SS4.png?raw=true)
+![alt text](https://github.com/Jodinurf/Tugas8_20220140060/blob/main/SS3.png?raw=true)
 
