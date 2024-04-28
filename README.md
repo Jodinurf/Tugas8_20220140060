@@ -1,3 +1,5 @@
+Link Github Pages : https://jodinurf.github.io/Tugas8_20220140060/
+<br>
 Results:
 <br>
 1. Homepage
